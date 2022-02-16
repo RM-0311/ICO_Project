@@ -1,4 +1,4 @@
-export const NFT_CONTRACT_ABI = "[
+export const NFT_CONTRACT_ABI = [
     {
       "inputs": [
         {
@@ -580,9 +580,9 @@ export const NFT_CONTRACT_ABI = "[
       "stateMutability": "payable",
       "type": "receive"
     }
-  ]";
+  ];
 export const NFT_CONTRACT_ADDRESS = "0x0381cd0bc1196d2df178fD9C2E8625E141F15AB2"
-export const TOKEN_CONTRACT_ABI = "[
+export const TOKEN_CONTRACT_ABI = [
     {
       "inputs": [
         {
@@ -1002,5 +1002,5 @@ export const TOKEN_CONTRACT_ABI = "[
       "stateMutability": "payable",
       "type": "receive"
     }
-  ]";
+  ];
 export const TOKEN_CONTRACT_ADDRESS = "0x47D7cB4269e4fa67b6216CF4b29C00AE974898CF"
